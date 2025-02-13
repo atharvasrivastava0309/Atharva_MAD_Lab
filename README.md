@@ -1,1 +1,1 @@
-All the MAD(Mobile Application Development) experiments/prjojects have been pushed here.
+All the MAD(Mobile Application Development) experiments/projects have been pushed here.
